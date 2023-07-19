@@ -16,7 +16,7 @@ Welcome to 2xSolution's GitHub! We are a team of blockchain enthusiasts and web3
 - ![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
 - ![Python](https://img.shields.io/badge/Python-Intermediate-blue)
 
-```
+````
 
 <h2 style="color: #ff79c6;">🛠️ Whitelabel Tools</h2>
 <?xml version="1.0" encoding="utf-8"?>
@@ -30,7 +30,7 @@ Welcome to 2xSolution's GitHub! We are a team of blockchain enthusiasts and web3
     <tspan fill="green">world</tspan>!
   </text>
 </svg>
-```
+````
 
 ## GitHub Stats
 
