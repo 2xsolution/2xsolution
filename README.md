@@ -19,16 +19,16 @@ Welcome to 2xSolution's GitHub! We are a team of blockchain enthusiasts and web3
 
 ## $`\textcolor{#D5358F}{\text{WhiteLable Solution}  } `$ <br>
 
-$`\textcolor{white}{\text{NFT Marketplace}  } `$ <br>
-$`\textcolor{white}{\text{Centralized Exchange}  } `$ <br>
-$`\textcolor{white}{\text{DEX}  } `$ <br>
-$`\textcolor{white}{\text{Casino Games}  } `$ <br>
-$`\textcolor{white}{\text{NFT Mint Platform}  } `$ <br>
-$`\textcolor{white}{\text{NFT Staking}  } `$ <br>
-$`\textcolor{white}{\text{Launchpad}  } `$ <br>
-$`\textcolor{white}{\text{NFT Auction Raffle Market}  } `$ <br>
-$`\textcolor{white}{\text{Token Staking}  } `$ <br>
-$`\textcolor{white}{\text{Pre-developed Tools}  } `$ <br>
+$`\textcolor{#1A1B46}{\text{NFT Marketplace}  } `$ <br>
+$`\textcolor{#1A1B46}{\text{Centralized Exchange}  } `$ <br>
+$`\textcolor{#1A1B46}{\text{DEX}  } `$ <br>
+$`\textcolor{#1A1B46}{\text{Casino Games}  } `$ <br>
+$`\textcolor{#1A1B46}{\text{NFT Mint Platform}  } `$ <br>
+$`\textcolor{#1A1B46}{\text{NFT Staking}  } `$ <br>
+$`\textcolor{#1A1B46}{\text{Launchpad}  } `$ <br>
+$`\textcolor{#1A1B46}{\text{NFT Auction Raffle Market}  } `$ <br>
+$`\textcolor{#1A1B46}{\text{Token Staking}  } `$ <br>
+$`\textcolor{#1A1B46}{\text{Pre-developed Tools}  } `$ <br>
 
 ## $`\textcolor{#D5358F}{\text{GitHub Stats}  } `$ <br>
 
