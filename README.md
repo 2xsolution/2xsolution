@@ -4,7 +4,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-2xsolution-D5358F?logo=github&labelColor=1A1B46)](https://github.com/2xsolution)
 [![Website](https://img.shields.io/badge/Website-2xsolution.com-D5358F?logo=google-chrome&labelColor=1A1B46)](https://2xsolution.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2xSolution-D5358F?logo=linkedin&labelColor=1A1B46)](https://www.linkedin.com/company/2x-solution)
-[![Twitter](https://img.shields.io/badge/Twitter-2xSolution-D5358F?logo=linkedin&labelColor=1A1B46)](https://www.twitter.com/2xsolution)
+[![Twitter](https://img.shields.io/badge/Twitter-2xSolution-D5358F?logo=twitter&labelColor=1A1B46)](https://www.twitter.com/2xsolution)
 [![Twitter](https://img.shields.io/twitter/follow/2xSolution?style=social&labelColor=1A1B46)](https://twitter.com/2xSolution)
 
 Welcome to 2xSolution's GitHub! We are a team of blockchain enthusiasts and web3 developers passionate about building decentralized applications, smart contracts, and providing innovative solutions.
