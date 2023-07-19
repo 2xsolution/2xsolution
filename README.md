@@ -20,16 +20,14 @@ Welcome to 2xSolution's GitHub! We are a team of blockchain enthusiasts and web3
 ## WhiteLable Solution
 
 $`\textcolor{#D5358F}{\text{NFT Marketplace}  } `$ <br>
-$`\textcolor{#D5358F}{\text{NFT Marketplace}  } `$ <br>
-$`\textcolor{#D5358F}{\text{NFT Marketplace}  } `$ <br>
-$`\textcolor{#D5358F}{\text{NFT Marketplace}  } `$ <br>
-$`\textcolor{#D5358F}{\text{NFT Marketplace}  } `$ <br>
-$`\textcolor{#D5358F}{\text{NFT Marketplace}  } `$ <br>
-$`\textcolor{#D5358F}{\text{NFT Marketplace}  } `$ <br>
-$`\textcolor{#D5358F}{\text{NFT Marketplace}  } `$ <br>
-$`\textcolor{#D5358F}{\text{NFT Marketplace}  } `$ <br>
-$`\textcolor{#D5358F}{\text{NFT Marketplace}  } `$ <br>
-$`\textcolor{#D5358F}{\text{NFT Marketplace}  } `$ <br>
+$`\textcolor{#D5358F}{\text{Centralized Exchange}  } `$ <br>
+$`\textcolor{#D5358F}{\text{DEX}  } `$ <br>
+$`\textcolor{#D5358F}{\text{Casino Games}  } `$ <br>
+$`\textcolor{#D5358F}{\text{NFT Mint & Staking}  } `$ <br>
+$`\textcolor{#D5358F}{\text{Launchpad}  } `$ <br>
+$`\textcolor{#D5358F}{\text{NFT Auction Raffle Market}  } `$ <br>
+$`\textcolor{#D5358F}{\text{Token Staking}  } `$ <br>
+$`\textcolor{#D5358F}{\text{Pre-developer Tools}  } `$ <br>
 
 ## GitHub Stats
 
