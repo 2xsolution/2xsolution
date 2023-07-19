@@ -29,4 +29,4 @@ Welcome to 2xSolution's GitHub! We are a team of blockchain enthusiasts and web3
 
 - 🌐 [Visit our website](https://2xsolution.com)
 - 🐦 [Follow us on Twitter](https://twitter.com/2xSolution)
-- 💼 [Connect on LinkedIn](https://www.linkedin.com/company/2xsolution)
+- 💼 [Connect on LinkedIn](https://www.linkedin.com/company/2x-solution)
