@@ -10,11 +10,11 @@ Welcome to 2xSolution's GitHub! We are a team of blockchain enthusiasts and web3
 
 ## Technologies and Languages
 
-- ![Blockchain](https://img.shields.io/badge/Blockchain-Expert-D5358F?labelColor=1A1B46)
-- ![Smart Contracts](https://img.shields.io/badge/Smart%20Contracts-Solidity-D5358F?labelColor=1A1B46)
-- ![Web3](https://img.shields.io/badge/Web3-Advanced-D5358F?labelColor=1A1B46)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-Expert-D5358F?labelColor=1A1B46)
-- ![Python](https://img.shields.io/badge/Python-Intermediate-D5358F?labelColor=1A1B46)
+ ![Blockchain](https://img.shields.io/badge/Blockchain-Expert-D5358F?labelColor=1A1B46)
+ ![Smart Contracts](https://img.shields.io/badge/Smart%20Contracts-Solidity-D5358F?labelColor=1A1B46)
+ ![Web3](https://img.shields.io/badge/Web3-Advanced-D5358F?labelColor=1A1B46)
+ ![JavaScript](https://img.shields.io/badge/JavaScript-Expert-D5358F?labelColor=1A1B46)
+ ![Python](https://img.shields.io/badge/Python-Intermediate-D5358F?labelColor=1A1B46)
 
 
 ## WhiteLable Solution
