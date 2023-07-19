@@ -22,12 +22,11 @@ Welcome to 2xSolution's GitHub! We are a team of blockchain enthusiasts and web3
 @@ This is a purple colored line @@
 ```
 
-<code>#aa4400
-  <svg role="img" aria-labelledby="_Z5jdHi6">
-    <title id="_Z5jdHi6">Color: “firebrick”</title>
-    …
-  </svg>
-</code>
+     <code>HSLA(540,70%,50%,0.3)
+       <span class="gfm-color_chip">
+         <span style="background-color: HSLA(540,70%,50%,0.3);"></span>
+      </span>
+     </code>
 
 ## GitHub Stats
 
