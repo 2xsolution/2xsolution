@@ -10,7 +10,7 @@ Welcome to 2xSolution's GitHub! We are a team of blockchain enthusiasts and web3
 
 ## Technologies and Languages
 
-- ![Blockchain](https://img.shields.io/badge/Blockchain-Expert-brightgreen)
+- ![Blockchain](https://img.shields.io/badge/Blockchain-Expert-brightgreen?labelColor=1A1B46)
 - ![Smart Contracts](https://img.shields.io/badge/Smart%20Contracts-Solidity-orange)
 - ![Web3](https://img.shields.io/badge/Web3-Advanced-yellow)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
