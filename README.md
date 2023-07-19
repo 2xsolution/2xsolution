@@ -21,7 +21,7 @@ Welcome to 2xSolution's GitHub! We are a team of blockchain enthusiasts and web3
 + This is a green colored line
 @@ This is a purple colored line @@
 ```
-$`\textcolor{teal}{\left[ \text{NFT Marketplace}\right]  } `$
+$`\textcolor{teal}{\left \text{NFT Marketplace}\right  } `$
 
 ## GitHub Stats
 
