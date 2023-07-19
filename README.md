@@ -17,7 +17,7 @@ Welcome to 2xSolution's GitHub! We are a team of blockchain enthusiasts and web3
 - ![Python](https://img.shields.io/badge/Python-Intermediate-blue)
 
 
-##WhiteLable Solution
+## WhiteLable Solution
 
 $`\textcolor{teal}{\text{NFT Marketplace}  } `$
 
