@@ -1,5 +1,5 @@
 # 2xSolution - Blockchain Development and Web3 Solutions
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=2xsolution&label=Profile%20views&color=D5358F&style=flat&labelColor=1A1B46" alt="2xsolution" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=2xsolution&label=Profile%20views&color=D5358F&style=flat" alt="2xsolution" /> </p>
 
 [![GitHub](https://img.shields.io/badge/GitHub-2xsolution-D5358F?logo=github&labelColor=1A1B46)](https://github.com/2xsolution)
 [![Website](https://img.shields.io/badge/Website-2xsolution.com-D5358F?logo=google-chrome&labelColor=1A1B46)](https://2xsolution.com)
