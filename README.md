@@ -17,17 +17,8 @@ Welcome to 2xSolution's GitHub! We are a team of blockchain enthusiasts and web3
 - ![Python](https://img.shields.io/badge/Python-Intermediate-blue)
 
 ## Whitelabel Tools
+<h2 style="color: #ff79c6;">🛠️ Whitelabel Tools</h2>
 
-```diff
-- 🔧 Tool 1
-+ Tool 1 Description
-
-- 🔧 Tool 2
-+ Tool 2 Description
-
-- 🔧 Tool 3
-+ Tool 3 Description
-```
 
 
 
