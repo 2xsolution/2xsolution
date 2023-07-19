@@ -18,9 +18,14 @@ Welcome to 2xSolution's GitHub! We are a team of blockchain enthusiasts and web3
 
 ## Whitelabel Tools
 
-- :hammer_and_wrench: [Tool 1](link-to-tool1) - Description of Tool 1.
-- :art: [Tool 2](link-to-tool2) - Description of Tool 2.
-- :gear: [Tool 3](link-to-tool3) - Description of Tool 3.
+- <span style="color:#ff6d00">:toolbox:</span> **Tool 1**
+  Description of Tool 1.
+
+- <span style="color:#00bfff">:hammer_and_wrench:</span> **Tool 2**
+  Description of Tool 2.
+
+- <span style="color:#4caf50">:gear:</span> **Tool 3**
+  Description of Tool 3.
 
 
 
