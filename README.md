@@ -1,11 +1,10 @@
 # 2xSolution - Blockchain Development and Web3 Solutions
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2xsolution&label=Profile%20views&color=D5358F&style=flat" alt="2xsolution" /> </p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-2xsolution-D5358F?logo=github)](https://github.com/2xsolution)
+[![GitHub](https://img.shields.io/badge/GitHub-2xsolution-D5358F?logo=github&labelColor=00aced)](https://github.com/2xsolution)
 [![Website](https://img.shields.io/badge/Website-2xsolution.com-D5358F?logo=google-chrome)](https://2xsolution.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2xSolution-D5358F?logo=linkedin)](https://www.linkedin.com/company/2xsolution)
 [![Twitter](https://img.shields.io/twitter/follow/2xSolution?style=social)](https://twitter.com/2xSolution)
-[![a](https://img.shields.io/badge/Social-Link-blue?style=social&logo=twitter&logoColor=white&labelColor=00aced&link=https://twitter.com/YourTwitterHandle)
 
 Welcome to 2xSolution's GitHub! We are a team of blockchain enthusiasts and web3 developers passionate about building decentralized applications, smart contracts, and providing innovative solutions.
 
