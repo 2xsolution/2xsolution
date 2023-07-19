@@ -16,6 +16,35 @@ Welcome to 2xSolution's GitHub! We are a team of blockchain enthusiasts and web3
 - ![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
 - ![Python](https://img.shields.io/badge/Python-Intermediate-blue)
 
+### Whitelabel Tools
+
+<div>
+  <span class="tool-icon"><i class="fab fa-html5"></i></span>
+  <a href="link-to-tool1">Tool 1</a> - Description of Tool 1.
+</div>
+<div>
+  <span class="tool-icon"><i class="fab fa-css3"></i></span>
+  <a href="link-to-tool2">Tool 2</a> - Description of Tool 2.
+</div>
+<div>
+  <span class="tool-icon"><i class="fab fa-js"></i></span>
+  <a href="link-to-tool3">Tool 3</a> - Description of Tool 3.
+</div>
+
+<style>
+  /* Add your custom CSS styles here */
+  .tool-icon {
+    margin-right: 10px;
+    font-size: 24px;
+    color: #007BFF; /* Replace with your desired icon color */
+  }
+  a {
+    color: #007BFF; /* Replace with your desired link color */
+    text-decoration: none;
+    font-weight: bold;
+  }
+</style>
+
 
 
 ## GitHub Stats
