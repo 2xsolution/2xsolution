@@ -1,4 +1,5 @@
 # 2xSolution - Blockchain Development and Web3 Solutions
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=2xsolution&label=Profile%20views&color=0e75b6&style=flat" alt="2xsolution" /> </p>
 
 [![GitHub](https://img.shields.io/badge/GitHub-2xsolution-blue?logo=github)](https://github.com/2xsolution)
 [![Website](https://img.shields.io/badge/Website-2xsolution.com-blue?logo=google-chrome)](https://2xsolution.com)
@@ -23,9 +24,6 @@ Welcome to 2xSolution's GitHub! We are a team of blockchain enthusiasts and web3
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2xsolution&layout=compact&theme=dark)
 
-## Profile Views
-
-![Profile views](https://gpvc.arturio.dev/2xsolution)
 
 ## Get in Touch
 
