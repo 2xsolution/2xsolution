@@ -28,7 +28,7 @@ $`\textcolor{#D5358F}{\text{NFT Staking}  } `$ <br>
 $`\textcolor{#D5358F}{\text{Launchpad}  } `$ <br>
 $`\textcolor{#D5358F}{\text{NFT Auction Raffle Market}  } `$ <br>
 $`\textcolor{#D5358F}{\text{Token Staking}  } `$ <br>
-$`\textcolor{#D5358F}{\text{Pre-developer Tools}  } `$ <br>
+$`\textcolor{#D5358F}{\text{Pre-developed Tools}  } `$ <br>
 
 ## GitHub Stats
 
