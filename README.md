@@ -19,7 +19,7 @@ Welcome to 2xSolution's GitHub! We are a team of blockchain enthusiasts and web3
 
 ## WhiteLable Solution
 
-$`\textcolor{teal}{\text{NFT Marketplace}  } `$
+$`\textcolor{#D5358F}{\text{NFT Marketplace}  } `$
 
 ## GitHub Stats
 
