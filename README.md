@@ -136,7 +136,7 @@ Welcome to 2xSolution's GitHub! We are a team of blockchain enthusiasts and web3
 
 ## GitHub Stats
 
-![2xSolution's GitHub stats](https://github-readme-stats.vercel.app/api?username=2xsolution&show_icons=true&theme=dark)
+![2xSolution's GitHub stats](https://github-readme-stats.vercel.app/api?username=2xsolution&show_icons=true&theme=radical)
 
 ## Github Streaks
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=2xsolution&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="2xsolution" /></p>
