@@ -20,18 +20,13 @@ Welcome to 2xSolution's GitHub! We are a team of blockchain enthusiasts and web3
 
 ## GitHub Stats
 
-![2xSolution's GitHub stats](https://github-readme-stats.vercel.app/api?username=2xsolution&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2xsolution&layout=compact&theme=dark)
+![2xSolution's GitHub stats](https://github-readme-stats.vercel.app/api?username=2xsolution&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=2xsolution&layout=compact&theme=radical)
 
 ## Github Streaks
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=2xsolution&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="2xsolution" /></p>
 
 ## Github Achievements
 <p align="center"> <a href="https://github.com/2xsolution"><img src="https://github-profile-trophy.vercel.app/?username=2xsolution&margin-w=5&theme=radical" alt="2xsolution" /></a> </p>
-
-## Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2xsolution&layout=compact&theme=dark)
-
 
 ## GitHub Activity Graph
 
