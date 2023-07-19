@@ -8,7 +8,7 @@
 
 Welcome to 2xSolution's GitHub! We are a team of blockchain enthusiasts and web3 developers passionate about building decentralized applications, smart contracts, and providing innovative solutions.
 
-## Technologies and Languages
+##  $`\textcolor{#D5358F}{\text{Technologies and Languages}  } `$ <br>
 
  ![Blockchain](https://img.shields.io/badge/Blockchain-Expert-D5358F?labelColor=1A1B46)
  ![Smart Contracts](https://img.shields.io/badge/Smart%20Contracts-Solidity-D5358F?labelColor=1A1B46)
@@ -17,7 +17,7 @@ Welcome to 2xSolution's GitHub! We are a team of blockchain enthusiasts and web3
  ![Python](https://img.shields.io/badge/Python-Intermediate-D5358F?labelColor=1A1B46)
 
 
-## WhiteLable Solution
+## $`\textcolor{#D5358F}{\text{WhiteLable Solution}  } `$ <br>
 
 $`\textcolor{#D5358F}{\text{NFT Marketplace}  } `$ <br>
 $`\textcolor{#D5358F}{\text{Centralized Exchange}  } `$ <br>
@@ -30,17 +30,17 @@ $`\textcolor{#D5358F}{\text{NFT Auction Raffle Market}  } `$ <br>
 $`\textcolor{#D5358F}{\text{Token Staking}  } `$ <br>
 $`\textcolor{#D5358F}{\text{Pre-developed Tools}  } `$ <br>
 
-## GitHub Stats
+## $`\textcolor{#D5358F}{\text{GitHub Stats}  } `$ <br>
 
 ![2xSolution's GitHub stats](https://github-readme-stats.vercel.app/api?username=2xsolution&show_icons=true&theme=radical) &nbsp;&nbsp;&nbsp;&nbsp; ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=2xsolution&layout=compact&theme=radical)
 
-## Github Streaks
+## $`\textcolor{#D5358F}{\text{Github Streaks}  } `$ <br>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=2xsolution&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="2xsolution" /></p>
 
-## Github Achievements
+## $`\textcolor{#D5358F}{\text{Github Achievements}  } `$ <br>
 <p align="center"> <a href="https://github.com/2xsolution"><img src="https://github-profile-trophy.vercel.app/?username=2xsolution&margin-w=5&theme=radical" alt="2xsolution" /></a> </p>
 
-## GitHub Activity Graph
+## $`\textcolor{#D5358F}{\text{GitHub Activity Graph}  } `$ <br>
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <a href="https://github.com/2xsolution/2xsolution"><img alt="2xsolution's activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=2xsolution&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
