@@ -20,6 +20,17 @@ Welcome to 2xSolution's GitHub! We are a team of blockchain enthusiasts and web3
 🛠️ Whitelabel Tools
 ```
 
+<style>
+H1{color:Blue !important;}
+H2{color:DarkOrange !important;}
+p{color:Black !important;}
+</style>
+
+# Color Test Document
+
+## Second Heading
+
+This is a test to see how the colors work.
 ## GitHub Stats
 
 ![2xSolution's GitHub stats](https://github-readme-stats.vercel.app/api?username=2xsolution&show_icons=true&theme=radical) &nbsp;&nbsp;&nbsp;&nbsp; ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=2xsolution&layout=compact&theme=radical)
