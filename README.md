@@ -21,7 +21,7 @@ Welcome to 2xSolution's GitHub! We are a team of blockchain enthusiasts and web3
 + This is a green colored line
 @@ This is a purple colored line @@
 ```
-$`\textcolor{red}{\left[ \text{Eq.(3-5) in the main text}\right]  } `$
+$`\textcolor{red}{\left[ \textNFT Marketplace\right]  } `$
 
 ## GitHub Stats
 
