@@ -1,4 +1,4 @@
-# 2xSolution - Blockchain Development and Web3 Solutions
+# $`\textcolor{#D5358F}{\text{2xSolution - Blockchain Development and Web3 Solutions}  } `$ <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2xsolution&label=Profile%20views&color=D5358F&style=flat&theme=radical" alt="2xsolution" /> </p>
 
 [![GitHub](https://img.shields.io/badge/GitHub-2xsolution-D5358F?logo=github&labelColor=1A1B46)](https://github.com/2xsolution)
@@ -19,7 +19,7 @@ Welcome to 2xSolution's GitHub! We are a team of blockchain enthusiasts and web3
 
 ## WhiteLable Solution
 
-## $`\textcolor{#D5358F}{\text{NFT Marketplace}  } `$ <br>
+$`\textcolor{#D5358F}{\text{NFT Marketplace}  } `$ <br>
 $`\textcolor{#D5358F}{\text{Centralized Exchange}  } `$ <br>
 $`\textcolor{#D5358F}{\text{DEX}  } `$ <br>
 $`\textcolor{#D5358F}{\text{Casino Games}  } `$ <br>
