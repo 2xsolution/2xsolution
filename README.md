@@ -144,7 +144,7 @@ Welcome to 2xSolution's GitHub! We are a team of blockchain enthusiasts and web3
 > GitHub Activity Graph
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/atosinu/atosinu"><img alt="atosinu's activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=atosinu&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
+<a href="https://github.com/2xsolution/2xsolution"><img alt="2xsolution's activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=2xsolution&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
 
 <br />
 
